@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ExtraLife
+  - Obstacle
+  - SlowMotion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background_Color
+    uniqueID: 952777649
+    locked: 0
+  - name: Background_Texture
+    uniqueID: 3123401305
+    locked: 0
+  - name: Player
+    uniqueID: 368441711
+    locked: 0
+  - name: Particles
+    uniqueID: 1967276391
+    locked: 0
+  - name: Platforms
+    uniqueID: 523662799
+    locked: 0
+  - name: Background_Filter
+    uniqueID: 43483789
+    locked: 0
+  - name: HUD
+    uniqueID: 2639518377
+    locked: 0
